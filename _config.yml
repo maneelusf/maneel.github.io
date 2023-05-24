@@ -97,7 +97,7 @@ content:
         additional_links:
           - title:  fingpt.info
             icon: fab fa-github
-            url: github.com/maneelusf/extpersonalization
+            url: github.com/gurug-dev/distributed_data_systems_project
         description: | # this will include new lines to allow paragraphs
           This is a group project where we collected SEC filings(Form 10k Item 7A) on ~1600 stocks as well as reddit posts on 28 subreddits regarding investing.
            We then perform sentiment analysis by using a pretrained HugginFace model. The key tools used in this project are:-.  <br>
