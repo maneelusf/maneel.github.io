@@ -1,1 +1,0 @@
-# maneel.github.io
