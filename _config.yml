@@ -169,7 +169,7 @@ content:
       - layout: top-middle
         title: University of San Francisco
         caption: 2022 - 2023
-        sub_title: Masters in Data Science(GPA:4.0/4.0)
+        sub_title: Masters in Data Science
         description: | # this will include new lines to allow paragraphs
            **Key Courses**:Machine Learning, Deep Learning, Linear Regression, Time Series Analysis, A/B Testing, Relational Databases (SQL), NoSQL, Distributed Computing
       - layout: top-middle
