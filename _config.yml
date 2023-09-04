@@ -53,13 +53,29 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Instruction tuning of open source  LLM using parameter efficient fine tuning 
+        additional_links:
+          - title:  fingpt.info
+            icon: fab fa-github
+            url: https://github.com/USFCA-courses/final-project-maneelusf
+          - title:  fingpt.info
+            icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=rKxKNDx9z54
+        description: | # this will include new lines to allow paragraphs
+          Finetuned an open-source LLM(Open Llama 3B) using Low Rank Adapter Weights using the Alpaca dataset and serving the model for inference on Ray Serve <br>
+          - HuggingFace
+          - Ray
+          - PEFT
+          - accelerate
+          - DeepSpeed
+      - layout: top-middle
         title: Financial Application to assist fundamental analysis of stocks using LLMs
         link: https://fingpt.info/
         link_text: <mark>Fin GPT 101</mark>
         additional_links:
           - title:  fingpt.info
             icon: fab fa-github
-            url: github.com/maneelusf/lstocklopenbbm
+            url: https://github.com/USFCA-courses/final-project-maneelusf
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
